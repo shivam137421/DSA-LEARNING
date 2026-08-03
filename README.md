@@ -20,6 +20,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/0059-spiral-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -43,8 +44,10 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
