@@ -19,6 +19,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -38,4 +39,12 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
