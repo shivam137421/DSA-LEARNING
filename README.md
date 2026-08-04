@@ -17,6 +17,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0059-spiral-matrix-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/0059-spiral-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -53,4 +55,8 @@ pushing my all leetcode solution  to this repo on daily basis.
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/0059-spiral-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
