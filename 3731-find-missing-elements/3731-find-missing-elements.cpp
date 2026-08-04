@@ -16,7 +16,7 @@ public:
             }
         }
         for(int i=mini;i<maxi;i++){
-            if(mp.find(i)!=mp.end()){
+            if(mp.contains(i)){
                 continue;
             }
             else{
