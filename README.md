@@ -9,6 +9,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0048-rotate-image](https://github.com/shivam137421/DSA-LEARNING/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -59,4 +60,8 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
