@@ -23,6 +23,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shivam137421/DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/shivam137421/DSA-LEARNING/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/0059-spiral-matrix-ii) |
@@ -64,6 +65,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shivam137421/DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Enumeration
