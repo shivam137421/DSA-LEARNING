@@ -7,7 +7,7 @@ public:
             if(address[i]=='.'){
                 address.insert(address.begin()+i,'[');
                 address.insert(address.begin()+(i+2),']');
-                n=address.size();
+                n+=2;
                 i+=3;
             }
             else{
