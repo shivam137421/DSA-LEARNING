@@ -17,6 +17,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
@@ -44,6 +45,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/shivam137421/DSA-LEARNING/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -93,4 +95,8 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
