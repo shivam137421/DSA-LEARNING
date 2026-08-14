@@ -47,6 +47,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam137421/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -78,6 +79,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam137421/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -99,4 +101,8 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam137421/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
