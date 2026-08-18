@@ -36,6 +36,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +86,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam137421/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
