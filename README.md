@@ -34,6 +34,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0074-search-a-2d-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
+| [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -63,6 +64,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
@@ -83,6 +85,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0041-first-missing-positive](https://github.com/shivam137421/DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam137421/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -112,4 +115,8 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam137421/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
