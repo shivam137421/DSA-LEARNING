@@ -10,6 +10,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0415-add-strings](https://github.com/shivam137421/DSA-LEARNING/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -38,6 +39,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -101,6 +103,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0074-search-a-2d-matrix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,4 +124,13 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
