@@ -6,6 +6,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivam137421/DSA-LEARNING/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shivam137421/DSA-LEARNING/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/shivam137421/DSA-LEARNING/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
@@ -50,6 +51,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivam137421/DSA-LEARNING/tree/master/0012-integer-to-roman) |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/shivam137421/DSA-LEARNING/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/shivam137421/DSA-LEARNING/tree/master/1108-defanging-an-ip-address) |
@@ -87,6 +89,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivam137421/DSA-LEARNING/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/shivam137421/DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
