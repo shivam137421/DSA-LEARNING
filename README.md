@@ -57,6 +57,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivam137421/DSA-LEARNING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/shivam137421/DSA-LEARNING/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/shivam137421/DSA-LEARNING/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/shivam137421/DSA-LEARNING/tree/master/1108-defanging-an-ip-address) |
@@ -148,4 +149,8 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/shivam137421/DSA-LEARNING/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
