@@ -15,6 +15,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
+| [3871-count-commas-in-range-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
