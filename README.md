@@ -156,4 +156,16 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/shivam137421/DSA-LEARNING/tree/master/0115-distinct-subsequences) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam137421/DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam137421/DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam137421/DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
