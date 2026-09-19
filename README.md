@@ -52,6 +52,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/3904-smallest-stable-index-ii) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/shivam137421/DSA-LEARNING/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Heap (Priority Queue)
 |  |
@@ -113,6 +114,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam137421/DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Enumeration
 |  |
 | ------- |
