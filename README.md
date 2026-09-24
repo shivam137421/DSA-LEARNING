@@ -16,6 +16,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivam137421/DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -48,6 +49,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivam137421/DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam137421/DSA-LEARNING/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
