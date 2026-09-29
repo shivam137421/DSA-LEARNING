@@ -178,14 +178,17 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivam137421/DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam137421/DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivam137421/DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam137421/DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivam137421/DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam137421/DSA-LEARNING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -203,4 +206,8 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivam137421/DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
