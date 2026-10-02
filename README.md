@@ -67,6 +67,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam137421/DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivam137421/DSA-LEARNING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/shivam137421/DSA-LEARNING/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/shivam137421/DSA-LEARNING/tree/master/0415-add-strings) |
@@ -174,6 +175,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/shivam137421/DSA-LEARNING/tree/master/0115-distinct-subsequences) |
 ## Tree
 |  |
@@ -205,9 +207,14 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam137421/DSA-LEARNING/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
