@@ -24,6 +24,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | ------- |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/shivam137421/DSA-LEARNING/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivam137421/DSA-LEARNING/tree/master/2785-sort-vowels-in-a-string) |
@@ -41,6 +42,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0074-search-a-2d-matrix](https://github.com/shivam137421/DSA-LEARNING/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/shivam137421/DSA-LEARNING/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam137421/DSA-LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -113,6 +115,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0041-first-missing-positive](https://github.com/shivam137421/DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
+| [0645-set-mismatch](https://github.com/shivam137421/DSA-LEARNING/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam137421/DSA-LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -156,6 +159,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/shivam137421/DSA-LEARNING/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
