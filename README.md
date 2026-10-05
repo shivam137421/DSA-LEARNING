@@ -44,6 +44,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam137421/DSA-LEARNING/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shivam137421/DSA-LEARNING/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam137421/DSA-LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -85,6 +86,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivam137421/DSA-LEARNING/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -117,6 +119,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/shivam137421/DSA-LEARNING/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam137421/DSA-LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
