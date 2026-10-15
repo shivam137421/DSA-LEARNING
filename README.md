@@ -48,6 +48,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1394-find-lucky-integer-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam137421/DSA-LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -125,6 +126,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1394-find-lucky-integer-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam137421/DSA-LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivam137421/DSA-LEARNING/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivam137421/DSA-LEARNING/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -227,4 +229,12 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
