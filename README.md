@@ -78,6 +78,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0115-distinct-subsequences](https://github.com/shivam137421/DSA-LEARNING/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/shivam137421/DSA-LEARNING/tree/master/0415-add-strings) |
+| [0686-repeated-string-match](https://github.com/shivam137421/DSA-LEARNING/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/shivam137421/DSA-LEARNING/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -246,16 +247,20 @@ pushing my all leetcode solution  to this repo on daily basis.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam137421/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/shivam137421/DSA-LEARNING/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam137421/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/shivam137421/DSA-LEARNING/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam137421/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/shivam137421/DSA-LEARNING/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam137421/DSA-LEARNING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/shivam137421/DSA-LEARNING/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
