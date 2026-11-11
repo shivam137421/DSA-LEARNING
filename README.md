@@ -17,6 +17,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivam137421/DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shivam137421/DSA-LEARNING/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -100,6 +101,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivam137421/DSA-LEARNING/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/shivam137421/DSA-LEARNING/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
