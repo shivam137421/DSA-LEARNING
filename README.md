@@ -28,6 +28,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0645-set-mismatch](https://github.com/shivam137421/DSA-LEARNING/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivam137421/DSA-LEARNING/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -49,6 +50,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1394-find-lucky-integer-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam137421/DSA-LEARNING/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam137421/DSA-LEARNING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam137421/DSA-LEARNING/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -100,6 +102,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivam137421/DSA-LEARNING/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/shivam137421/DSA-LEARNING/tree/master/1386-cinema-seat-allocation) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivam137421/DSA-LEARNING/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivam137421/DSA-LEARNING/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivam137421/DSA-LEARNING/tree/master/3789-minimum-cost-to-acquire-required-items) |
