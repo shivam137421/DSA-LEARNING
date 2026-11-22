@@ -86,6 +86,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam137421/DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam137421/DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/shivam137421/DSA-LEARNING/tree/master/1859-sorting-the-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shivam137421/DSA-LEARNING/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivam137421/DSA-LEARNING/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivam137421/DSA-LEARNING/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
