@@ -16,6 +16,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam137421/DSA-LEARNING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/shivam137421/DSA-LEARNING/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam137421/DSA-LEARNING/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivam137421/DSA-LEARNING/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivam137421/DSA-LEARNING/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -123,6 +124,7 @@ pushing my all leetcode solution  to this repo on daily basis.
 | [0059-spiral-matrix-ii](https://github.com/shivam137421/DSA-LEARNING/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/shivam137421/DSA-LEARNING/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam137421/DSA-LEARNING/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/shivam137421/DSA-LEARNING/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
